@@ -105,9 +105,6 @@ header nav a:hover {
 #order button:hover {
   background: #444;
 }
-#map-directions{
-  margin-left: 500px;
-}
 #map-directions img{
     height: 300px;
     width: 500px;
